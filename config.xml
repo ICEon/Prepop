@@ -22,7 +22,7 @@
 			<gap:splash src="icono.png" gap:platform="android" gap:density="xhdpi" />
 			
 
-    <preference name="phonegap-version" value="3.1.0" />
+    <preference name="phonegap-version" value="3.7.0" />
 	
     <author href="https://build.phonegap.com" email="support@phonegap.com">
       ICEon
